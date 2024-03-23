@@ -1,0 +1,35 @@
+body
+{
+    font-family: 'Special Elite', system-ui;
+    background-color: black;
+}
+.div1
+{
+    background-color: black;
+    color: white;
+}
+.div1 p
+{
+    color: green;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button
+{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.div2
+{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    color: green;
+    font-size: 15px;
+    width: 100%;
+    line-height: 3;
+    text-shadow: 5px 5px 5px lightblue;
+}
